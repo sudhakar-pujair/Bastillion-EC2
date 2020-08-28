@@ -1,0 +1,8 @@
+2020-05-23 10:56:57.214:WARN:oejx.XmlConfiguration:main: Deprecated constructor public org.eclipse.jetty.util.ssl.SslContextFactory() in file:///C:/Users/Sean/Desktop/Code/Bastillion-jetty/jetty/etc/jetty-ssl-context.xml
+2020-05-23 10:56:57.273:INFO:oejs.Server:main: jetty-9.4.29.v20200521; built: 2020-05-21T17:20:40.598Z; git: 77c232aed8a45c818fd27232278d9f95a021095e; jvm 9.0.4+11
+2020-05-23 10:56:57.313:INFO:oejdp.ScanningAppProvider:main: Deployment monitor [file:///C:/Users/Sean/Desktop/Code/Bastillion-jetty/jetty/webapps/] at interval 1
+2020-05-23 10:56:58.551:INFO:oeja.AnnotationConfiguration:main: Scanning elapsed time=671ms
+2020-05-23 10:56:58.963:INFO:oejs.session:main: DefaultSessionIdManager workerName=node0
+2020-05-23 10:56:58.963:INFO:oejs.session:main: No SessionScavenger set, using defaults
+2020-05-23 10:56:58.965:INFO:oejs.session:main: node0 Scavenging every 660000ms
+Please enter database password: 
